@@ -1,0 +1,23 @@
+{
+  "name": "Weighing Calculation Tool",
+  "short_name": "WeighingCalc",
+  "description": "An application for precise weight calculations and status verification based on theoretical values, tolerances, and actual measurements.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#a855f7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

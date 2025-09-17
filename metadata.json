@@ -1,0 +1,5 @@
+{
+  "name": "Weighing Calculation Tool",
+  "description": "An application for precise weight calculations and status verification based on theoretical values, tolerances, and actual measurements. It also includes a standard four-function calculator for general use.",
+  "requestFramePermissions": []
+}
